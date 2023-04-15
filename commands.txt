@@ -1,0 +1,5 @@
+ls -l -a
+ps
+ls foo
+ls
+echo "Hello World"
